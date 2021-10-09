@@ -1,0 +1,24 @@
+header {
+    background-color: rgb(255, 233, 32);
+    padding: 20px;
+    text-align: center;
+    font-size: 28px;
+    color: rgb(255, 255, 255);
+    font-family: impact;
+  }
+
+  article{
+      float: left;
+      padding: 10px;
+      background-color: rgb(84, 174, 177);
+      height: 1200px;
+      font-family: arial;
+  }
+  section {
+      background-color: rgb(28, 65, 80);
+      padding: 60px;
+      margin: 1px;
+      color: white;
+      font-family: arial;
+      
+   }
